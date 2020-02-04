@@ -1,0 +1,8 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Examples of design patterns.",
+  "main": "index.js",
+  "author": "Karol Szykuła",
+  "license": "MIT"
+}
